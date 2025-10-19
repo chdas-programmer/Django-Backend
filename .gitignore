@@ -1,0 +1,29 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.log
+
+# Environments
+env/
+venv/
+.env
+
+# Django
+staticfiles/
+media/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Build / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.coverage
+htmlcov/
